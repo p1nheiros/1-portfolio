@@ -35,9 +35,9 @@ Para contribuir com o projeto, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
+## 👨‍💻 Dev
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Desenvolvedor do projeto:
 
 <table>
   <tr>
